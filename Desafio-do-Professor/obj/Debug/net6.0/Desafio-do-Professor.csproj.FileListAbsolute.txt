@@ -1,0 +1,15 @@
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\bin\Debug\net6.0\Desafio-do-Professor.exe
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\bin\Debug\net6.0\Desafio-do-Professor.deps.json
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\bin\Debug\net6.0\Desafio-do-Professor.runtimeconfig.json
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\bin\Debug\net6.0\Desafio-do-Professor.dll
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\bin\Debug\net6.0\Desafio-do-Professor.pdb
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.csproj.AssemblyReference.cache
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.AssemblyInfoInputs.cache
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.AssemblyInfo.cs
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.csproj.CoreCompileInputs.cache
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.dll
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\refint\Desafio-do-Professor.dll
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.pdb
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\Desafio-do-Professor.genruntimeconfig.cache
+C:\Users\danilohs\aula06-funcoes-e-condicionais\Desafio-do-Professor\obj\Debug\net6.0\ref\Desafio-do-Professor.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josepj\\source\\repos\\aula07-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj": {}
+    "C:\\Users\\danilohs\\aula06-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josepj\\source\\repos\\aula07-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj": {
+    "C:\\Users\\danilohs\\aula06-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josepj\\source\\repos\\aula07-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj",
+        "projectUniqueName": "C:\\Users\\danilohs\\aula06-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj",
         "projectName": "Desafio-do-Professor",
-        "projectPath": "C:\\Users\\josepj\\source\\repos\\aula07-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj",
-        "packagesPath": "C:\\Users\\josepj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josepj\\source\\repos\\aula07-funcoes-e-condicionais\\Desafio-do-Professor\\obj\\",
+        "projectPath": "C:\\Users\\danilohs\\aula06-funcoes-e-condicionais\\Desafio-do-Professor\\Desafio-do-Professor.csproj",
+        "packagesPath": "C:\\Users\\danilohs\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danilohs\\aula06-funcoes-e-condicionais\\Desafio-do-Professor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josepj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danilohs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
