@@ -12,7 +12,7 @@ string retornarDiagnosticoDoUsuario(double alturaDoUsuario, double pesoDoUsuario
     else if(imc < 29.9) {
         return "Sobreso";
     }
-    else if(imc > 30 || imc < 40) {
+    else if(imc > 30 && imc < 40) {
         return "Obesidade";
     }
     else{
